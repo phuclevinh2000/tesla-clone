@@ -1,44 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# what is this project?
 
-## Available Scripts
+The main pupose of this project is to improve the way I am styling web APP You can contact me by this email: phuclevinh2000@gmail.com
 
-In the project directory, you can run:
+# note 
+The application is fully responsive
 
-### `npm start`
+## Live Demo 
+[Click here](https://tesla-clone-phucle.netlify.app/)
+![image](![image](https://user-images.githubusercontent.com/47014132/134258115-544ced39-fe74-4fe6-b029-0e1a87df3eb5.png))
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## How to build and run
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### 1. Install Nodejs and npm
+Download and install Node.js from this link https://nodejs.org/en/download/
 
-### `npm test`
+### 2. Clone or download this repo.
+`git clone git@github.com:phuclevinh2000/First-Round-Phuc-Le.git`
+. On your command line, navigate to root folder and install: `npm install --save`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. Deploy the application
+. Deploy the app on web-browsers: `npm start`
 
-### `npm run build`
+## what technology I used in the application
+- React
+- JavaScript
+- Styled Component
+- Material UI
+- FlexBox
+- Redux-Toolkit
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
